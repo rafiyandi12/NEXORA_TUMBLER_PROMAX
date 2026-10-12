@@ -1,0 +1,7 @@
+CORKCICLE product/media references used by the prototype:
+https://corkcicle.com/collections/collection-classic
+https://corkcicle.com/collections/inventory-items
+
+Prototype exchange-rate note:
+Bank Indonesia JISDOR 21 September 2026 = Rp17.813/USD.
+The portable build uses the Rupiah prices already present in the NEXORA prototype reference.

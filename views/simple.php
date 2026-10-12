@@ -1,0 +1,1 @@
+<section class="section narrow"><div class="card"><div class="eyebrow">NEXORA</div><h1><?=h($heading)?></h1><p class="muted"><?=h($copy)?></p><a class="btn btn-primary" href="<?=route_url('products')?>">Back to products</a></div></section>

@@ -1,0 +1,1 @@
+<section class="section narrow"><div class="card empty"><div class="eyebrow">404</div><h1>Page not found.</h1><p class="muted">Kembali ke homepage NEXORA.</p><a class="btn btn-primary" href="<?=route_url('home')?>">Home</a></div></section>

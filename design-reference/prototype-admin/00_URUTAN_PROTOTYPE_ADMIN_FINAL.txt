@@ -1,0 +1,3 @@
+URUTAN ADMIN
+01 Login → 04 Dashboard → 06 Pesanan → 07 Detail → 09 QC → 11 QC Berhasil → 12 Packing/Pengiriman → 14 Berhasil → 15 Produk → 17 Tambah → 19 Berhasil → 20 Edit → 22 Laporan → 23 Detail → 24 Invoice → 25 Struk.
+Katalog semua mengarah ke produk Corkcicle yang sama dengan sisi user.
